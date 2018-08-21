@@ -7,5 +7,3 @@ def turn_count(baord)
   end
   count
 end
-
-def 
