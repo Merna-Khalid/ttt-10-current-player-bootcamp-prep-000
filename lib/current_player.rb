@@ -1,0 +1,11 @@
+def turn_count(baord)
+  count = 0
+  board.each do |cell|
+    if cell == 'X' || cell == 'O'
+      count += 1
+    end
+  end
+  count
+end
+
+def 
